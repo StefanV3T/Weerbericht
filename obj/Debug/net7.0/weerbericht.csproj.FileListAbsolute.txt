@@ -1,0 +1,14 @@
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\bin\Debug\net7.0\weerbericht.exe
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\bin\Debug\net7.0\weerbericht.deps.json
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\bin\Debug\net7.0\weerbericht.runtimeconfig.json
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\bin\Debug\net7.0\weerbericht.dll
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\bin\Debug\net7.0\weerbericht.pdb
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.AssemblyInfo.cs
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.dll
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\refint\weerbericht.dll
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.pdb
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\weerbericht.genruntimeconfig.cache
+C:\Users\stefa\OneDrive - ROC van Twente\School 2023-2024\C# Novice\weerbericht\obj\Debug\net7.0\ref\weerbericht.dll
